@@ -1,4 +1,5 @@
 # Contributors
+- [Apoorva Singh](https://github.com/meticulousCraftman)
 - [Amandeep Singh](https://github.com/as1993)
 - [Rio804]
 - [Oghenetega]
